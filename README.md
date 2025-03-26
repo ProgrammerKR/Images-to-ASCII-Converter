@@ -11,10 +11,7 @@ A web tool that **converts images into ASCII art** with adjustable settings for 
 ✅ **Responsive & Fast** – Works on any device  
 
 ## 🖥️ Demo  
-Try it live: **[Your GitHub Pages Link]**  
-
-## 📸 Screenshot  
-![Image-to-ASCII Converter](screenshot.png)  
+Try it live: **[https://programmerkr.github.io/Images-to-ASCII-Converter]**  
 
 ## 🛠️ Installation  
 1. **Clone the repo:**  
